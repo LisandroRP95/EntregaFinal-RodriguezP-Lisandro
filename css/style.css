@@ -9,3 +9,19 @@
 
 .body-bg-color {
   background-color: #98a1a1; }
+
+p {
+  color: white; }
+  p.texto-blanco {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; }
+
+footer a {
+  color: white; }
+
+.color-titulo-form {
+  color: white;
+  padding-top: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; }
+
+h2 .h3 {
+  color: white; }
