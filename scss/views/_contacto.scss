@@ -1,3 +1,4 @@
+//Cambio de estilo de texto en caja de comentarios
 .color-titulo-form{
     color: $color-txt;
     padding-top: 15px;
@@ -10,6 +11,7 @@ h2{
     }
 }
 
+//Implementación de Ciclos
 @for $margin-contacto from 1 through 10 {
 	.margen-#{$margin-contacto}{
 	margin:10px * $margin-contacto;
